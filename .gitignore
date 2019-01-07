@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+inspirobot-sdl
+inspirobot-sdl.so
+inspirobot-sdl.dylib
+inspirobot-sdl.dll
+inspirobot-sdl.a
+inspirobot-sdl.lib
+inspirobot-sdl-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.idea
+*.iml

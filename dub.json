@@ -1,0 +1,13 @@
+{
+	"name": "inspirobot-sdl",
+	"authors": [
+		"Kyle Smith"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4",
+		"requests": "~>1.0.5"
+	},
+	"description": "Native Inspirobot application using SDL.",
+	"copyright": "Copyright © 2019, Kyle Smith",
+	"license": "MIT"
+}
