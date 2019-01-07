@@ -24,6 +24,10 @@ just run:
 
     dub run
 
+The application itself is borderless and does not currently support resize/move. You
+can use your OS' native Quit keyboard shortcut to quit, or press 'q' while the window
+has focus.
+
 [D Compiler]: https://dlang.org/download.html#dmd
 [DUB]: https://dub.pm/
 
